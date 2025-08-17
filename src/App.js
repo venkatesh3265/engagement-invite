@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
-
+import audioFile from "./assets/audio.mp3";
 const EngagementInvitation = () => {
   const [theme] = useState({
     primaryColor: "#FF6B9E",
@@ -205,7 +205,7 @@ const EngagementInvitation = () => {
       >
         <audio
           ref={audioRef}
-          src="/audio.mp3"
+          src={audioFile}
           onEnded={() => setIsPlaying(false)}
         />
 
