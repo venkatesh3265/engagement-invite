@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/engagement-invite/static/css/main.0e12aaee.css",
-    "main.js": "/engagement-invite/static/js/main.5d6b981f.js",
+    "main.js": "/engagement-invite/static/js/main.6b4e5fac.js",
     "static/js/488.0bd9cfa5.chunk.js": "/engagement-invite/static/js/488.0bd9cfa5.chunk.js",
     "index.html": "/engagement-invite/index.html",
     "main.0e12aaee.css.map": "/engagement-invite/static/css/main.0e12aaee.css.map",
-    "main.5d6b981f.js.map": "/engagement-invite/static/js/main.5d6b981f.js.map",
+    "main.6b4e5fac.js.map": "/engagement-invite/static/js/main.6b4e5fac.js.map",
     "488.0bd9cfa5.chunk.js.map": "/engagement-invite/static/js/488.0bd9cfa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e12aaee.css",
-    "static/js/main.5d6b981f.js"
+    "static/js/main.6b4e5fac.js"
   ]
 }
