@@ -297,7 +297,7 @@ const EngagementInvitation = () => {
                 }}
               >
                 <p className="font-semibold animate-fade-in delay-1">
-                  August 27, 2025
+                  August 27, 2025  — 9:00 AM
                 </p>
                 <p className="animate-fade-in delay-2">
 
@@ -307,6 +307,16 @@ const EngagementInvitation = () => {
                  
                 </p>
                 <p className="animate-fade-in delay-4">Nagercoil, Kanyakumari</p>
+                <p className="animate-fade-in delay-4">
+                <a
+      href="https://www.google.com/maps/place/Vellamadam+Cooperative+Bank/@8.2113732,77.3878709,13z/data=!4m7!3m6!1s0x3b04f705027a6fa7:0x7b9d9460b507d08d!8m2!3d8.2113732!4d77.4640886!15sCjxWZWxsYW1hZGFtIENvb3BlcmF0aXZlIEJhbmsgTWFuZGFwYW0sIE5hZ2VyY29pbCwgS2FueWFrdW1hcmmSAQRiYW5rqgGNARABKigiJHZlbGxhbWFkYW0gY29vcGVyYXRpdmUgYmFuayBtYW5kYXBhbSgAMh8QASIblDJcA655gmWgO0fTu_ts90K9DXE15fYjxU-cMj4QAiI6dmVsbGFtYWRhbSBjb29wZXJhdGl2ZSBiYW5rIG1hbmRhcGFtIG5hZ2VyY29pbCBrYW55YWt1bWFyaeABAA!16s%2Fg%2F11g4fc64th?entry=tts"
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{ color: theme.accentColor, textDecoration: "underline" }}
+    >
+      View on Google Maps
+    </a>
+  </p>
               </address>
             </div>
 
